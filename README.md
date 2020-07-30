@@ -1,1 +1,3 @@
 # CTFJul
+
+Hackathon stuff
